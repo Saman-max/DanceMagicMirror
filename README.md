@@ -1,6 +1,5 @@
 # DanceMagicMirror
 💃生动的舞蹈教学镜系统
-# DanceMagicMirror - 智能舞蹈教学镜系统
 
 ![项目概念图](https://via.placeholder.com/800x400?text=DanceMagicMirror+Concept+Demo)
 
